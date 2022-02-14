@@ -9,7 +9,7 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 ### Introdução à Python
 ---
 
-- [ ] Introdução - Ciência da Computação/ Aprendendo Python
+- [x] Introdução - Ciência da Computação/ Aprendendo Python
 - [ ] Entrada e saída de dados
 - [ ] Testes
 
