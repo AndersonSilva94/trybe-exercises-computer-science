@@ -11,7 +11,7 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 
 - [x] Introdução - Ciência da Computação/ Aprendendo Python
 - [x] Entrada e saída de dados
-- [ ] Testes
+- [x] Testes
 
 ### Programação Orientada a Objetos e Padrões de Projeto
 ---
