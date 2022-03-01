@@ -16,7 +16,7 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 ### Programação Orientada a Objetos e Padrões de Projeto
 ---
 
-- [ ] Introdução à programação orientada a objetos
+- [x] Introdução à programação orientada a objetos
 - [ ] Herança, Composição e Interfaces
 - [ ] Padrões de projeto
 
