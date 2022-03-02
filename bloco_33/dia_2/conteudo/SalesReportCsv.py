@@ -11,6 +11,10 @@ class SalesReportCSV(SalesReport):
             for item in self.build():
                 csv_writer.writerow(item)
 
+    def get_length(self):
+        return 24
+
 
 meu_relatorio_de_vendas = SalesReportCSV('csv_meu_relatorio')
 meu_relatorio_de_vendas.serialize()
+print(meu_relatorio_de_vendas.get_length())

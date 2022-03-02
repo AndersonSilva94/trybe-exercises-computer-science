@@ -25,6 +25,6 @@ class SalesReport(ABC):
     def serialize(self):
         raise NotImplementedError
 
-# Classe, crie (em outras palavras, instancie!) uma nova entidade 'Relatório de vendas' para eu usar!
-
-# Entidade 'meu_relatorio_de_vendas', que eu acabei de criar, imprima-se!
+    @abstractmethod
+    def get_length(self):
+        raise NotImplementedError
